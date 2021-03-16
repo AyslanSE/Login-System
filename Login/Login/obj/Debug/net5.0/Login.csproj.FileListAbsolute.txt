@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\Login.exe
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\Login.deps.json
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\Login.runtimeconfig.json
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\Login.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\Login.dll
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\ref\Login.dll
+C:\Users\Usuário\source\repos\Login\Login\bin\Debug\net5.0\Login.pdb
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.dll
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\ref\Login.dll
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.pdb
+C:\Users\Usuário\source\repos\Login\Login\obj\Debug\net5.0\Login.genruntimeconfig.cache
